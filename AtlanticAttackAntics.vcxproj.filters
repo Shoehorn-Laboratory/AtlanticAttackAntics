@@ -19,4 +19,19 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\sfml-audio-3.dll" />
+    <None Include="bin\sfml-audio-d-3.dll" />
+    <None Include="bin\sfml-graphics-3.dll" />
+    <None Include="bin\sfml-graphics-d-3.dll" />
+    <None Include="bin\sfml-network-3.dll" />
+    <None Include="bin\sfml-network-d-3.dll" />
+    <None Include="bin\sfml-system-3.dll" />
+    <None Include="bin\sfml-system-d-3.dll" />
+    <None Include="bin\sfml-window-3.dll" />
+    <None Include="bin\sfml-window-d-3.dll" />
+    <None Include=".gitattributes" />
+    <None Include=".gitignore" />
+    <None Include="README.md" />
+  </ItemGroup>
 </Project>
