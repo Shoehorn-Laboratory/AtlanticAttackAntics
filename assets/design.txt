@@ -1,0 +1,23 @@
+Atlantic Attack Antics - Game Design
+
+===== Gameplay =====
+- Start somewhere random on the seafloor with a home base (reef?)
+- Mining coral/harvesting plants for materials
+- Build structures with coral and other currencies (if any)
+- Coral is for building; kelp is for training (the macros)
+- Instant gratification (troop training)
+- Direct troops to an objective (some troops will do a job, others will fight)
+- Goal is to be the last man standing
+
+===== Units =====
+- Octopus Commander (players)
+- Fish Grunt (harvest)
+- Crab Grunt 
+- Sea Urchin (slow but effective for harvesting and hard to kill)
+
+===== Structures =====
+- Labyrinths of coral caves
+- Sandcastle bases
+
+===== Architecture =====
+- Game class to manage everything: current state, assets, etc.
